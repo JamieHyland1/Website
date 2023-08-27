@@ -1,0 +1,16 @@
+.Banner{
+    width: 100vw;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+   }
+
+.BannerTitle{
+    text-align: center;
+    width: 100vw; /* 100% of the viewport width */
+    height: 50vh; /* 100% of the viewport height */
+    margin-top: 10%;
+    position: fixed; /* Position the div relative to the viewport */
+   
+}
